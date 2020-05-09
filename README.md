@@ -6,6 +6,4 @@
 
 3. Sum_of_two_nums -> Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
 
-4. Program to find the number of occurences using dictionary and sorting it to print out in ascending order
-
-5. char_occurence_in_string -> Program to find the number of occurences using dictionary and sorting it to print out in ascending order
+4.  char_occurence_in_string -> Program to find the number of occurences using dictionary and sorting it to print out in ascending order
