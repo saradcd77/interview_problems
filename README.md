@@ -5,3 +5,7 @@
 2. First duplicate -> Finds the number that has duplicate in the list. If there are more than one numbers that are duplicate then it finds the number whose duplicate is index closer to the original number. 
 
 3. Sum_of_two_nums -> Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
+
+4. Program to find the number of occurences using dictionary and sorting it to print out in ascending order
+
+5. char_occurence_in_string -> Program to find the number of occurences using dictionary and sorting it to print out in ascending order
