@@ -7,3 +7,5 @@
 3. Sum_of_two_nums -> Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
 
 4.  char_occurence_in_string -> Program to find the number of occurences using dictionary and sorting it to print out in ascending order
+
+5. sum_of_numbers_in_string -> Finds the sum of numbers in given alphanumeric string
