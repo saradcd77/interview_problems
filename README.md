@@ -9,3 +9,5 @@
 4.  char_occurence_in_string -> Program to find the number of occurences using dictionary and sorting it to print out in ascending order
 
 5. sum_of_numbers_in_string -> Finds the sum of numbers in given alphanumeric string
+
+6. check_balanced_parenthesis -> Checks if the given string has balanced parenthesis
