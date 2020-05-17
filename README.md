@@ -11,3 +11,5 @@
 5. sum_of_numbers_in_string -> Finds the sum of numbers in given alphanumeric string
 
 6. check_balanced_parenthesis -> Checks if the given string has balanced parenthesis
+
+7. roman_to_int_conversion --> Conversts the string of roman numericals to integer numbers
