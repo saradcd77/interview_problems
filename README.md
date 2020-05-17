@@ -12,4 +12,4 @@
 
 6. check_balanced_parenthesis -> Checks if the given string has balanced parenthesis
 
-7. roman_to_int_conversion --> Conversts the string of roman numericals to integer numbers
+7. roman_to_int_conversion -> Converts the string of roman numericals to integer numbers
