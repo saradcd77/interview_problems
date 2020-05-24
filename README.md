@@ -12,11 +12,12 @@
 
 5. **sum_of_numbers_in_string** -> Finds the sum of numbers in given alphanumeric string
 
-6. **check_balanced_parenthesis** -> Checks if the given string has balanced parenthesis
+6. **check_balanced_parenthesis** -> Checks if the given string has balanced parenthesis (LeetCode Easy Problem)
 
-7. **roman_to_int_conversion** -> Converts the string of roman numericals to integer numbers
+7. **roman_to_int_conversion** -> Converts the string of roman numericals to integer numbers (LeetCode Easy Problem)
 
-8. **merge_to_sorted_list** -> Merges two sorted arrays to first sorted array and returns as one sorted array
+8. **merge_to_sorted_list** -> Merges two sorted arrays to first sorted array and returns as one sorted array (LeetCode Easy Problem)
 
-9. **plus_one** -> Given a non-empty array of digits representing a non-negative integer, plus one to the integer. Digits are stored such that the most significant digit is at the head of the list, and each element in the array contain a single digit
+9. **plus_one** -> Given a non-empty array of digits representing a non-negative integer, plus one to the integer. Digits are stored such that the most significant digit is at the head of the list, and each element in the array contain a single digit (LeetCode Easy Problem)
 
+10. **integer_palindrome** -> Given an integer determine if the given integer is palindrome or not. (LeetCode Easy Problem)
