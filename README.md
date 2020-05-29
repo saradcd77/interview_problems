@@ -21,3 +21,5 @@
 9. **plus_one** -> Given a non-empty array of digits representing a non-negative integer, plus one to the integer. Digits are stored such that the most significant digit is at the head of the list, and each element in the array contain a single digit (LeetCode Easy Problem)
 
 10. **integer_palindrome** -> Given an integer determine if the given integer is palindrome or not. (LeetCode Easy Problem)
+
+11. **reverse_vowels** -> Reverses the positon of vowels in a given string
