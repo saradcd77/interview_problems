@@ -23,3 +23,5 @@
 10. **integer_palindrome** -> Given an integer determine if the given integer is palindrome or not. (LeetCode Easy Problem)
 
 11. **reverse_vowels** -> Reverses the positon of vowels in a given string
+
+12. **secondlargest.py** -> Finds the second largest integer from a given array
