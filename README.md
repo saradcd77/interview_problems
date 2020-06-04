@@ -25,3 +25,5 @@
 11. **reverse_vowels** -> Reverses the positon of vowels in a given string
 
 12. **secondlargest.py** -> Finds the second largest integer from a given array
+
+13. **isAnagram.py** -> Finds if the two given strings are anagram or not (LeetCode Easy Problem)
