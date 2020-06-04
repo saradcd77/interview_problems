@@ -29,5 +29,5 @@ def vowelReverse(str):
 
 print(vowelReverse('Hello'))
 print(vowelReverse('Hire'))
-print(vowelReverse('Henry'))
+print(vowelReverse('Harry'))
 print(vowelReverse('aeiou'))
