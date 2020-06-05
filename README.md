@@ -29,3 +29,5 @@
 13. **isAnagram.py** -> Finds if the two given strings are anagram or not (LeetCode Easy Problem)
 
 14. **isIsomorphic.py** -> Checks if the two given strings are isomorphic or not (LeetCode Easy Problem)
+
+15. **pairwise_sum.py** -> Finds all the pairwise sum from the given array that matches the corresponding given value
