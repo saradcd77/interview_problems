@@ -31,3 +31,5 @@
 14. **isIsomorphic.py** -> Checks if the two given strings are isomorphic or not (LeetCode Easy Problem)
 
 15. **pairwise_sum.py** -> Finds all the pairwise sum from the given array that matches the corresponding given value
+
+16. **string_compression.py** -> Returns both the number of times each characters and characters occured in string
