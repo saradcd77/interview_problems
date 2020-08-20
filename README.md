@@ -34,4 +34,6 @@
 
 16. **string_compression.py** -> Returns both the number of times each characters and characters occured in a string
 
-17. **find_max_url_in_txtfile.py** -> Finds the string of url from urls.txt file that occurs most frequently (Asked by Clumio)
+17. **remove_duplicate.py** -> Finds the string of url from urls.txt file that occurs most frequently (Asked by Clumio)
+
+18. **remove_duplicate.py** -> Returns the list after removing duplicate nums from it (LeetCode Easy Problem)
