@@ -37,3 +37,5 @@
 17. **remove_duplicate.py** -> Finds the string of url from urls.txt file that occurs most frequently (Asked by Clumio)
 
 18. **remove_duplicate.py** -> Returns the list after removing duplicate nums from it (LeetCode Easy Problem)
+
+19. **product.py** -> Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i. 
