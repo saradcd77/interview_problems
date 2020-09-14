@@ -39,3 +39,5 @@
 18. **remove_duplicate.py** -> Returns the list after removing duplicate nums from it (LeetCode Easy Problem)
 
 19. **product.py** -> Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i. (Asked by Uber)
+
+20. **serialize_binary_tree.py** -> Given the root to a binary tree, implement serialize(root), which serializes the tree into a string, and deserialize(s), which deserializes the string back into the tree. (Asked by Google)
