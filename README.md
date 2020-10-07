@@ -41,3 +41,9 @@
 19. **product.py** -> Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i. (Asked by Uber)
 
 20. **serialize_binary_tree.py** -> Given the root to a binary tree, implement serialize(root), which serializes the tree into a string, and deserialize(s), which deserializes the string back into the tree. (Asked by Google)
+
+21. **non_adj_num.py** -> Given a list of integers, write a function that returns the largest sum of non-adjacent numbers. Numbers can be 0 or negative.
+
+For example, [2, 4, 6, 8] should return 12, since we pick 4 and 8. [5, 1, 1, 5] should return 10, since we pick 5 and 5. (Asked by Airbnb)
+
+
