@@ -42,8 +42,10 @@
 
 20. **serialize_binary_tree.py** -> Given the root to a binary tree, implement serialize(root), which serializes the tree into a string, and deserialize(s), which deserializes the string back into the tree. (Asked by Google)
 
-21. **non_adj_num.py** -> Given a list of integers, write a function that returns the largest sum of non-adjacent numbers. Numbers can be 0 or negative.
+21. **non_adj_num.py** -> Given a list of integers, write a function that returns the largest sum of non-adjacent numbers. Numbers can be 0 or negative.For example, [2, 4, 6, 8] should return 12, since we pick 4 and 8. [5, 1, 1, 5] should return 10, since we pick 5 and 5. (Asked by Airbnb)
 
-For example, [2, 4, 6, 8] should return 12, since we pick 4 and 8. [5, 1, 1, 5] should return 10, since we pick 5 and 5. (Asked by Airbnb)
-
+22. **ordered_log.py** -> You run an e-commerce website and want to record the last N order ids in a log. Implement a data structure to accomplish this, with the following API:
+	record(order_id): adds the order_id to the log
+	get_last(i): gets the ith last element from the log. i is guaranteed to be smaller than or equal to N.
+	You should be as efficient with time and space as possible. (Asked by Twitter)
 
