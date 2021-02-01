@@ -49,3 +49,5 @@
 	get_last(i): gets the ith last element from the log. i is guaranteed to be smaller than or equal to N.
 	You should be as efficient with time and space as possible. (Asked by Twitter)
 
+23. **char_encoding.py** -> Given the mapping a = 1, b = 2, ... z = 26, and an encoded message, count the number of ways it can be decoded. (Asked by Facebook)
+
